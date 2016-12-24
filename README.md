@@ -1,6 +1,6 @@
 # Google-Neural-Machine-Translation-GNMT-
 
-It is a tensorflow implementation of [GNMT published by google][2]
+It is a tensorflow implementation of [GNMT published by google][1]
 
 Keyword: Machine Translation
 
@@ -26,6 +26,8 @@ the structure is something like this:
 - subword and one-to-many will be implemented in the future
 
 ## References
+[MIT][12]
+
 [1]: https://arxiv.org/abs/1609.08144
 
 
