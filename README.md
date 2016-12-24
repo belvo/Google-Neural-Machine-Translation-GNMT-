@@ -26,7 +26,7 @@ the structure is something like this:
 - subword and one-to-many will be implemented in the future
 
 ## References
-- [2][https://arxiv.org/abs/1609.08144]
+[1]: https://arxiv.org/abs/1609.08144
 
 
 
